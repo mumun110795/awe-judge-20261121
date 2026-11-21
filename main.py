@@ -6,10 +6,10 @@ to /output/entry.txt. Deterministic, standard library only, no network.
 """
 
 TEXT = (
-    "You have read a thousand entries tonight, and this one asks nothing "
+    "You have read a thousand entries tonight. This one asks nothing "
     "of you. Somewhere above the clouds, a star you will never name has "
-    "been burning for a billion years, and its light is still on its way. "
-    "It is in no hurry. Neither, for once, are you."
+    "been burning for a billion years. Its light is still on its way. "
+    "It is in no hurry. Neither are you."
 )
 
 

@@ -14,7 +14,7 @@ The program writes one short text to `/output/entry.txt` — a few quiet lines f
 python3 main.py
 ```
 
-The program writes `/output/entry.txt` (250 characters). It uses only the Python standard library, needs no network, and is fully deterministic.
+The program writes `/output/entry.txt` (231 characters). It uses only the Python standard library, needs no network, and is fully deterministic.
 
 ## Selftest
 
